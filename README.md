@@ -13,6 +13,7 @@ In this assignment, you will be tasked with creating and deploying a simple Expr
 - [Part 2 — Write the Middleware](#part-2--write-the-middleware)
 - [Part 3 — Deploy](#part-3--deploy)
 - [Bonus Challenge:](#bonus-challenge)
+- [Deployment Link](#deployment-link)
 
 ## Short Responses
 
@@ -58,7 +59,7 @@ Before continuing, make sure that these tasks are completed!
 
 **Deployment Technical Requirements**
 
-- [ ] Your GitHub page has a link to the deployed server in the About section.
+- [x] Your GitHub page has a link to the deployed server in the About section.
 
 ## Part 1 — Setup
 
@@ -111,3 +112,7 @@ When you're done, push your code to github and [follow these steps to deploy usi
 ## Bonus Challenge:
 
 Find your first React assignment (the Language Greeter App) and copy it into this assignment. Run `npm run build` to generate the `dist` folder and update your server to serve your app instead of the default counter app.
+
+## [Deployment Link](https://eight-0-1-assignment-mekhi-m.onrender.com)
+
+Deployed site: https://eight-0-1-assignment-mekhi-m.onrender.com
